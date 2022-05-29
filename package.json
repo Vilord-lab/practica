@@ -2,7 +2,7 @@
   "name": "examen",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Nikita Makarow",
+  "author": "Nikolay Kovalenko",
   "license": "MIT",
   "scripts": {
     "start": "node index.js"
