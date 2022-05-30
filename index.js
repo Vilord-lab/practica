@@ -61,4 +61,4 @@ logManager.fetchLogs()
     for (const log of logManager.sort()) {
       await db.insert(log)
     }
-  }
+  })
